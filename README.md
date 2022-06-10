@@ -1,2 +1,2 @@
-# our_project
+# my_project
 this is my test project
